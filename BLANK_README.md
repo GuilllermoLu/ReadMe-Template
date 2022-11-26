@@ -35,7 +35,7 @@
   </a>
 
 <h3 align="center">PM1/Projekt 3</h3>
-  <h3 align="center"><strong>Siedler von Catan</strong></h3>
+  <br> <strong>Siedler von Catan</strong>
 
   <p align="center">
     project_description
